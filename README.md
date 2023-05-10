@@ -8,3 +8,6 @@ Simply open the index.html file in your browser.
 Click on the input fields to see their labels move in a wave.
 
 ## Video
+
+https://github.com/dan-ibeh/8-form_wave_animation/assets/65494402/adf9eb94-b14a-4482-ac61-0899a751302b
+
